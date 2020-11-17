@@ -1,3 +1,6 @@
 [submodule "pilink/pilink"]
 	path = pilink/pilink
 	url = https://github.com/asb2m10/pilink
+[submodule "ble-midi/bluez"]
+	path = ble-midi/bluez
+	url = http://github.com/oxesoft/bluez

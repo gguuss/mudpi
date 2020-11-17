@@ -21,3 +21,7 @@ aplaymidi --port="MS-1" ./MIDI_sample.mid
 ```
 aplaymidi --port="MS-1" ./midi/C3-C4-scale.mid
 ```
+
+4. Try midi playing something
+
+
