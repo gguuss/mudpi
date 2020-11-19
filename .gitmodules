@@ -4,3 +4,6 @@
 [submodule "ble-midi/bluez"]
 	path = ble-midi/bluez
 	url = http://github.com/oxesoft/bluez
+[submodule "rtp-midi/pimidi"]
+	path = rtp-midi/pimidi
+	url = https://github.com/ravelox/pimidi
